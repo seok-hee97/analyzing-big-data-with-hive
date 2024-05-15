@@ -8,6 +8,20 @@ Businesses thrive by making informed decisions that target the needs of their cu
 This course shows how to use Hive to process data. Instructor Ben Sullins starts by showing you how to structure and optimize your data. Next, he explains how to get Hue, the Hadoop user interface, to leverage HiveQL when analyzing data. Using the newly configured option, he then demonstrates how to load data, create aggregate tables for fast query access, and run advanced analytics. He also takes you through managing tables and putting functions to use. This course is designed to help you find new ways to work with datasets so you can answer the tough data science questions that come your way.
 
 
+#### Learning objectives
+- Defining data structures in Hive
+- Selecting data
+- Joining tables
+- Manipulating data
+- Filtering results
+- Aggregating data
+- Using built-in aggregate functions
+- Mastering built-in table-generating functions
+- Using CUBE and ROLLUP
+- Using clauses: WHERE and HAVING
+- Using LIKE, JOIN, and SEMI JOIN
+- Using functions: String, math, date, and conditional
+
 
 
 
