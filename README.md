@@ -29,5 +29,5 @@ This course shows how to use Hive to process data. Instructor Ben Sullins starts
 - [(linkedIn)Analyzing Big Data with Hive Course](https://www.linkedin.com/learning/analyzing-big-data-with-hive/setting-up-our-demo-environment)
 - [Installing Cloudera Quickstart VM using Docekr Hub(on Mac M1)](https://medium.com/@rakeshgopidi/installing-cloudera-quickstart-vm-through-docker-hub-on-mac-m1-879f4a3d0fd4)
 - [Installing Hadoop with Hive on Mac M1 using Homebrew](https://medium.com/@daibinraju/installing-hadoop-with-hive-on-mac-m1-using-homebrew-3505c6166e83)
-
-
+- [Hive CheetSheet](https://gist.github.com/kzhangkzhang/258d18858889fa97194011a249b74c43)
+  
